@@ -1,5 +1,5 @@
 # Nadaljnja navodila
-21
+42
 1. Sedaj imaš lokalno kopijo repozitorija.
    Odprite direktorij z repozitorijem v 
 2. Poženite skripto, da boste lahko preigrali zgodbo:
